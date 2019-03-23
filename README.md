@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rliuyi/romanliu/_apis/build/status/rliuyi.pipelines-java?branchName=master)](https://dev.azure.com/rliuyi/romanliu/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
